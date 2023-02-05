@@ -1,5 +1,5 @@
 # Active-Learning-and-Human-in-the-loop-Machine-Learning
-The Project show cases the Active Learning for deep learning and Human in the Loop Machine Learning. This work was carried out Fraunhofer Institute for Integrated Circuits IIS, Division Engineering of Adaptive Systems EAS located in Dresden
+The Project show cases the Active Learning for Deep Learning and Human in the Loop Machine Learning. This work was carried out Fraunhofer Institute for Integrated Circuits IIS, Division Engineering of Adaptive Systems EAS located in Dresden
 
 
 # Use case:
